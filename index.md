@@ -15,4 +15,4 @@ This app does not collect, store, or process any personal data.
 If you have any questions about this privacy policy, feel free to contact:
 
 **Glance**  
-glance.helpdesk [at) gmail.com
+glanceapp.helpdesk [at) gmail.com
